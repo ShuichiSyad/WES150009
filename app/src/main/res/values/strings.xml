@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyDiaryApp</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tellus eu diam venenatis, quis malesuada arcu bibendum. Ut faucibus ullamcorper diam nec semper. Morbi dapibus, risus eleifend vestibulum dictum, velit ligula suscipit felis, ac facilisis tellus augue non nunc.</string>
+    <string-array name="font_available">
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Underline</item>
+    </string-array>
+    <string-array name="font_color">
+        <item>Primary</item>
+        <item>Primary Dark</item>
+        <item>Accent</item>
+    </string-array>
+</resources>
